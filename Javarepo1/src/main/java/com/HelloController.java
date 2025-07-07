@@ -11,7 +11,7 @@ public class HelloController {
 	@GetMapping("/welcome")
 	public String welcome()
 	{
-		return "Code is deployed in Code Deploy Again";
+		return "Hello from Suraj Prusty (2021wa86534)";
 	}
 
 }
